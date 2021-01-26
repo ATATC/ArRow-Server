@@ -2,7 +2,7 @@
 
 ## 更新日志
 
-- 【服务器】新增测试命令 "hello"、"adv"、"args"。 
+- 【服务器】新增测试命令 `hello`、`adv`、`args`。 
 - 【服务器】新增 *<u>DataCenter</u>* 中 *<u>handleComplexRequest</u>* 方法的动态错误处理。
 - 【都】正式弃用 *<u>Values</u>* 的所有动态方法。
 

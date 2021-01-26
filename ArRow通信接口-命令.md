@@ -35,7 +35,7 @@
 
       1. ### 应答
 
-         "nice_to_meet_you"
+         `nice_to_meet_you`
 
       2. ### 副词
 
@@ -139,18 +139,18 @@
 
          | 字符串  | 作用           |
          | :------ | -------------- |
-         | ""      | 仅正式版本。   |
-         | "beta"  | 包括公测版本。 |
-         | "alpha" | 包括内测版本。 |
+         |         | 仅正式版本。   |
+         | `beta`  | 包括公测版本。 |
+         | `alpha` | 包括内测版本。 |
 
       3. ### 参数
 
          | 名称 | 值        | 作用                        |
          | ---- | --------- | --------------------------- |
-         | "os" | "android" | 返回安卓 APP 最新版本。     |
-         |      | "ios"     | 返回 iOS APP 最新版本。     |
-         |      | "windows" | 返回 Windows APP 最新版本。 |
-         |      | "macos"   | 返回 Mac OS APP 最新版本。  |
+         | `os` | `android` | 返回安卓 APP 最新版本。     |
+         |      | `ios`     | 返回 iOS APP 最新版本。     |
+         |      | `windows` | 返回 Windows APP 最新版本。 |
+         |      | `macos`   | 返回 Mac OS APP 最新版本。  |
 
       4. ### 例
 
@@ -198,9 +198,9 @@
 
          | 字符串              | 意义                     |
          | ------------------- | ------------------------ |
-         | "lack_of_arguments" | 缺少参数。               |
-         | "invalid_token"     | Token 无效。             |
-         | "access_denied"     | Token 不具有管理员权限。 |
+         | `lack_of_arguments` | 缺少参数。               |
+         | `invalid_token`     | Token 无效。             |
+         | `access_denied`     | Token 不具有管理员权限。 |
 
       2. ### 副词
 
@@ -210,7 +210,7 @@
 
          | 名称    | 值           | 作用       |
          | ------- | ------------ | ---------- |
-         | "token" | 客户端 Token | 验证身份。 |
+         | `token` | 客户端 Token | 验证身份。 |
 
       4. ### 例
 
@@ -232,9 +232,9 @@
 
          | 字符串              | 意义                     |
          | ------------------- | ------------------------ |
-         | "lack_of_arguments" | 缺少参数。               |
-         | "invalid_token"     | Token 无效。             |
-         | "access_denied"     | Token 不具有管理员权限。 |
+         | `lack_of_arguments` | 缺少参数。               |
+         | `invalid_token`     | Token 无效。             |
+         | `access_denied`     | Token 不具有管理员权限。 |
 
       2. ### 副词
 
@@ -244,7 +244,7 @@
 
          | 名称    | 值           | 作用       |
          | ------- | ------------ | ---------- |
-         | "token" | 客户端 Token | 验证身份。 |
+         | `token` | 客户端 Token | 验证身份。 |
 
       4. ### 例
 
@@ -270,12 +270,12 @@
 
          | 名称            | 值的格式                             | 意义                   | 是否可能不含或为空 |
          | --------------- | ------------------------------------ | ---------------------- | ------------------ |
-         | "title"         |                                      | 横幅的标题。           | 否                 |
-         | "titleColor"    | 十六进制颜色无透明度，如"#FFFFFF"。  | 横幅的标题的字体颜色。 | 是                 |
-         | "content"       |                                      | 横幅的简介。           | 是                 |
-         | "contentColor"  | 十六进制颜色无透明度，如"#FFFFFF"。  | 横幅的简介的字体颜色。 | 否                 |
-         | "backgroundImg" | [ArRow 图片索引](ArRow图片索引.md)。 | 横幅的背景图片。       | 是                 |
-         | "articleID"     | [ArRow 文章索引](ArRow文章索引.md)。 | 横幅指向的文章。       | 否                 |
+         | `title`         |                                      | 横幅的标题。           | 否                 |
+         | `titleColor`    | 十六进制颜色无透明度，如 `#FFFFFF`。 | 横幅的标题的字体颜色。 | 是                 |
+         | `content`       |                                      | 横幅的简介。           | 是                 |
+         | `contentColor`  | 十六进制颜色无透明度，如 `#FFFFFF`。 | 横幅的简介的字体颜色。 | 否                 |
+         | `backgroundImg` | [ArRow 图片索引](ArRow图片索引.md)。 | 横幅的背景图片。       | 是                 |
+         | `articleID`     | [ArRow 文章索引](ArRow文章索引.md)。 | 横幅指向的文章。       | 否                 |
 
       2. ### 副词
 
