@@ -1,6 +1,6 @@
 > # ArRow 通信接口
 
-## 更新日志
+## 更新日志 - v2.7.4
 
 - 【服务器】新增测试命令 `hello`、`adv`、`args`。 
 - 【服务器】新增 *<u>DataCenter</u>* 中 *<u>handleComplexRequest</u>* 方法的动态错误处理。
