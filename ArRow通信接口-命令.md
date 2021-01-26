@@ -2,6 +2,7 @@
 > 如果你尚不了解 ArRow 服务器通信接口的调用方法，请阅读[《ArRow通信接口-规范》](ArRow通信接口-规范.md)相关文档。
 >
 > <span style="color: orange;">这是需要 Token 的命令</span>
+>
 > <span style="color: red;">这是需要管理员权限的命令</span>
 
 # 目录

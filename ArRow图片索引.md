@@ -6,9 +6,9 @@
 
 ID 索引一般在图片可公开且复用率较高的情况下使用，它的特征即以"@id="开头。
 
-解析它的方式非常简单，仅需将"@id="后的字符串追加在地址"https://www.atatc.net/arrow/resources/img/"后即可。
+解析它的方式非常简单，仅需将"@id="后的字符串追加在地址"[https://www.atatc.net/arrow/resources/img/]()"后即可。
 
-例如"@id=1.jpeg"，则其指向 https://www.atatc.net/arrow/resources/img/1.jpeg。
+例如"@id=1.jpeg"，则其指向 [https://www.atatc.net/arrow/resources/img/1.jpeg]()。
 
 # Url
 
@@ -16,7 +16,7 @@ Url 索引一般在图片本就在外部固定地址的情况下使用，它的�
 
 解析它的方式更为简单，"@url="后的字符串即图片地址。
 
-例如"@url=https://www.atatc.net/arrow/resources/img/1.jpeg"，则其指向 https://www.atatc.net/arrow/resources/img/1.jpeg。
+例如"@url=[https://www.atatc.net/arrow/resources/img/1.jpeg]()"，则其指向 [https://www.atatc.net/arrow/resources/img/1.jpeg]()。
 
 # Base64
 
