@@ -29,9 +29,9 @@
 - [数据组](#数据组)
 - [get_banner](#get_banner)
 
-1. # <span id="测试组">测试组</span>
+1. # 测试组
 
-   1. ## <span id="hello">hello</span>
+   1. ## hello
 
       1. ### 应答
 
@@ -55,7 +55,7 @@
          nice_to_meet_you
          ```
 
-   2. ## <span id="adv">adv</span>
+   2. ## adv
 
       1. ### 应答
 
@@ -79,7 +79,7 @@
          adv_test
          ```
 
-   3. ## <span id="args">args</span>
+   3. ## args
 
       1. ### 应答
 
@@ -103,9 +103,9 @@
          ["language": "zh-cn", "...": "..."]
          ```
 
-2. # <span id="信息组">信息组</span>
+2. # 信息组
 
-   1. ## <span id="version">version</span>
+   1. ## version
 
       1. ### 应答
 
@@ -129,7 +129,7 @@
          2.7.4
          ```
 
-   2. ## <span id="latest_app_version">latest_app_version</span>
+   2. ## latest_app_version
 
       1. ### 应答
 
@@ -162,7 +162,7 @@
          1.9.8@β0.0.8
          ```
 
-   3. ## <span id="copyright">copyright</span>
+   3. ## copyright
 
       1. ### 应答
 
@@ -186,9 +186,9 @@
          Copyright ©️ 2020 ATATC All rights reserved.
          ```
 
-3. # <span id="后台组">后台组</span>
+3. # 后台组
 
-   1. ## <span id="count_user" style="color: red;">count_user</span>
+   1. ## <span style="color: red;">count_user</span>
 
       1. ### 应答
 
@@ -222,7 +222,7 @@
          1
          ```
 
-   2. ## <span id="count_articles" style="color: red;">count_articles</span>
+   2. ## <span style="color: red;">count_articles</span>
 
       1. ### 应答
 
@@ -256,9 +256,9 @@
          1
          ```
 
-4. # <span id="数据组">数据组</span>
+4. # 数据组
 
-   1. ## <span id="get_banner">get_banner</span>
+   1. ## get_banner
 
       1. ### 应答
 
