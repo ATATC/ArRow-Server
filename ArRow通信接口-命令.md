@@ -7,31 +7,27 @@
 
 # 目录
 
-- ### [测试组](#测试组)
-
-  - #### [hello](#hello)
-
-  - #### [adv](#adv)
-
-  - #### [args](#args)
-
-- ### [信息组](#信息组)
-
-  - #### [version](#version)
-
-  - #### [latest_app_version](#latest_app_version)
-
-  - #### [copyright](#copyright)
-
-- ### [后台组](#后台组)
-
-  - #### [count_user](#count_user)
-
-  - #### [count_articles](#count_articles)
-
-- ### [数据组](#数据组)
-
-  - #### [get_banner](#get_banner)
+- [测试组](#测试组)
+- [hello](#hello)
+  
+- [adv](#adv)
+  
+- [args](#args)
+  
+- [信息组](#信息组)
+- [version](#version)
+  
+- [latest_app_version](#latest_app_version)
+  
+- [copyright](#copyright)
+  
+- [后台组](#后台组)
+- [count_user](#count_user)
+  
+- [count_articles](#count_articles)
+  
+- [数据组](#数据组)
+- [get_banner](#get_banner)
 
 1. # <span id="测试组">测试组</span>
 
