@@ -54,7 +54,7 @@
          例：
 
          ```json
-         [{"name": "language", "zh-cn"}, {"name": "...", "value": "..."}]
+         [{"name": "language", "value": "zh-cn"}, {"name": "...", "value": "..."}]
          ```
 
          支持的参数根据命令不同而不同。**不过请确保你的参数中包含"language"这一项，它将在版本 v2.8.0 后作为常规参数被所有命令支持**。
